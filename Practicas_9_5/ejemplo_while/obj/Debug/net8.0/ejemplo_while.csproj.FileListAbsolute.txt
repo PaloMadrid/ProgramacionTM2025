@@ -1,0 +1,14 @@
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Practicas_9_5\ejemplo_while\bin\Debug\net8.0\ejemplo_while.exe
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Practicas_9_5\ejemplo_while\bin\Debug\net8.0\ejemplo_while.deps.json
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Practicas_9_5\ejemplo_while\bin\Debug\net8.0\ejemplo_while.runtimeconfig.json
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Practicas_9_5\ejemplo_while\bin\Debug\net8.0\ejemplo_while.dll
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Practicas_9_5\ejemplo_while\bin\Debug\net8.0\ejemplo_while.pdb
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Practicas_9_5\ejemplo_while\obj\Debug\net8.0\ejemplo_while.GeneratedMSBuildEditorConfig.editorconfig
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Practicas_9_5\ejemplo_while\obj\Debug\net8.0\ejemplo_while.AssemblyInfoInputs.cache
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Practicas_9_5\ejemplo_while\obj\Debug\net8.0\ejemplo_while.AssemblyInfo.cs
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Practicas_9_5\ejemplo_while\obj\Debug\net8.0\ejemplo_while.csproj.CoreCompileInputs.cache
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Practicas_9_5\ejemplo_while\obj\Debug\net8.0\ejemplo_while.dll
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Practicas_9_5\ejemplo_while\obj\Debug\net8.0\refint\ejemplo_while.dll
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Practicas_9_5\ejemplo_while\obj\Debug\net8.0\ejemplo_while.pdb
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Practicas_9_5\ejemplo_while\obj\Debug\net8.0\ejemplo_while.genruntimeconfig.cache
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Practicas_9_5\ejemplo_while\obj\Debug\net8.0\ref\ejemplo_while.dll

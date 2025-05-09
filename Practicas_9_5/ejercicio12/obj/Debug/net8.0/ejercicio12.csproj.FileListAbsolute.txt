@@ -1,0 +1,14 @@
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Practicas_9_5\ejercicio12\bin\Debug\net8.0\ejercicio12.exe
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Practicas_9_5\ejercicio12\bin\Debug\net8.0\ejercicio12.deps.json
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Practicas_9_5\ejercicio12\bin\Debug\net8.0\ejercicio12.runtimeconfig.json
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Practicas_9_5\ejercicio12\bin\Debug\net8.0\ejercicio12.dll
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Practicas_9_5\ejercicio12\bin\Debug\net8.0\ejercicio12.pdb
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Practicas_9_5\ejercicio12\obj\Debug\net8.0\ejercicio12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Practicas_9_5\ejercicio12\obj\Debug\net8.0\ejercicio12.AssemblyInfoInputs.cache
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Practicas_9_5\ejercicio12\obj\Debug\net8.0\ejercicio12.AssemblyInfo.cs
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Practicas_9_5\ejercicio12\obj\Debug\net8.0\ejercicio12.csproj.CoreCompileInputs.cache
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Practicas_9_5\ejercicio12\obj\Debug\net8.0\ejercicio12.dll
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Practicas_9_5\ejercicio12\obj\Debug\net8.0\refint\ejercicio12.dll
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Practicas_9_5\ejercicio12\obj\Debug\net8.0\ejercicio12.pdb
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Practicas_9_5\ejercicio12\obj\Debug\net8.0\ejercicio12.genruntimeconfig.cache
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Practicas_9_5\ejercicio12\obj\Debug\net8.0\ref\ejercicio12.dll
