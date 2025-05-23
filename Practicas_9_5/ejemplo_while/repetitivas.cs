@@ -1,6 +1,6 @@
 ﻿namespace ejemplo_while
 {
-    internal class Program
+    internal class repetitivas
     {
         static void Main(string[] args)
         {

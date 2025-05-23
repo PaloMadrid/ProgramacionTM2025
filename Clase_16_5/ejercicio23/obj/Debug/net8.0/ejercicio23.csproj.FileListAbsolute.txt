@@ -1,0 +1,15 @@
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Clase_16_5\ejercicio23\bin\Debug\net8.0\ejercicio23.exe
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Clase_16_5\ejercicio23\bin\Debug\net8.0\ejercicio23.deps.json
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Clase_16_5\ejercicio23\bin\Debug\net8.0\ejercicio23.runtimeconfig.json
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Clase_16_5\ejercicio23\bin\Debug\net8.0\ejercicio23.dll
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Clase_16_5\ejercicio23\bin\Debug\net8.0\ejercicio23.pdb
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Clase_16_5\ejercicio23\obj\Debug\net8.0\ejercicio23.GeneratedMSBuildEditorConfig.editorconfig
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Clase_16_5\ejercicio23\obj\Debug\net8.0\ejercicio23.AssemblyInfoInputs.cache
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Clase_16_5\ejercicio23\obj\Debug\net8.0\ejercicio23.AssemblyInfo.cs
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Clase_16_5\ejercicio23\obj\Debug\net8.0\ejercicio23.csproj.CoreCompileInputs.cache
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Clase_16_5\ejercicio23\obj\Debug\net8.0\ejercicio23.sourcelink.json
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Clase_16_5\ejercicio23\obj\Debug\net8.0\ejercicio23.dll
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Clase_16_5\ejercicio23\obj\Debug\net8.0\refint\ejercicio23.dll
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Clase_16_5\ejercicio23\obj\Debug\net8.0\ejercicio23.pdb
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Clase_16_5\ejercicio23\obj\Debug\net8.0\ejercicio23.genruntimeconfig.cache
+D:\Paloma\cifpa\programacion\2025\TM\csharp\Clase_16_5\ejercicio23\obj\Debug\net8.0\ref\ejercicio23.dll
