@@ -1,0 +1,14 @@
+D:\Paloma\cifpa\programacion\2025\TM\23-5\clase23_5\funcion\bin\Debug\net8.0\funcion.exe
+D:\Paloma\cifpa\programacion\2025\TM\23-5\clase23_5\funcion\bin\Debug\net8.0\funcion.deps.json
+D:\Paloma\cifpa\programacion\2025\TM\23-5\clase23_5\funcion\bin\Debug\net8.0\funcion.runtimeconfig.json
+D:\Paloma\cifpa\programacion\2025\TM\23-5\clase23_5\funcion\bin\Debug\net8.0\funcion.dll
+D:\Paloma\cifpa\programacion\2025\TM\23-5\clase23_5\funcion\bin\Debug\net8.0\funcion.pdb
+D:\Paloma\cifpa\programacion\2025\TM\23-5\clase23_5\funcion\obj\Debug\net8.0\funcion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Paloma\cifpa\programacion\2025\TM\23-5\clase23_5\funcion\obj\Debug\net8.0\funcion.AssemblyInfoInputs.cache
+D:\Paloma\cifpa\programacion\2025\TM\23-5\clase23_5\funcion\obj\Debug\net8.0\funcion.AssemblyInfo.cs
+D:\Paloma\cifpa\programacion\2025\TM\23-5\clase23_5\funcion\obj\Debug\net8.0\funcion.csproj.CoreCompileInputs.cache
+D:\Paloma\cifpa\programacion\2025\TM\23-5\clase23_5\funcion\obj\Debug\net8.0\funcion.dll
+D:\Paloma\cifpa\programacion\2025\TM\23-5\clase23_5\funcion\obj\Debug\net8.0\refint\funcion.dll
+D:\Paloma\cifpa\programacion\2025\TM\23-5\clase23_5\funcion\obj\Debug\net8.0\funcion.pdb
+D:\Paloma\cifpa\programacion\2025\TM\23-5\clase23_5\funcion\obj\Debug\net8.0\funcion.genruntimeconfig.cache
+D:\Paloma\cifpa\programacion\2025\TM\23-5\clase23_5\funcion\obj\Debug\net8.0\ref\funcion.dll

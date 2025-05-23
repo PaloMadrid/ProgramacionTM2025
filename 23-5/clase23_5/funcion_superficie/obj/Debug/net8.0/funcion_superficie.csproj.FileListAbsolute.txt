@@ -1,0 +1,14 @@
+D:\Paloma\cifpa\programacion\2025\TM\23-5\clase23_5\funcion_superficie\bin\Debug\net8.0\funcion_superficie.exe
+D:\Paloma\cifpa\programacion\2025\TM\23-5\clase23_5\funcion_superficie\bin\Debug\net8.0\funcion_superficie.deps.json
+D:\Paloma\cifpa\programacion\2025\TM\23-5\clase23_5\funcion_superficie\bin\Debug\net8.0\funcion_superficie.runtimeconfig.json
+D:\Paloma\cifpa\programacion\2025\TM\23-5\clase23_5\funcion_superficie\bin\Debug\net8.0\funcion_superficie.dll
+D:\Paloma\cifpa\programacion\2025\TM\23-5\clase23_5\funcion_superficie\bin\Debug\net8.0\funcion_superficie.pdb
+D:\Paloma\cifpa\programacion\2025\TM\23-5\clase23_5\funcion_superficie\obj\Debug\net8.0\funcion_superficie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Paloma\cifpa\programacion\2025\TM\23-5\clase23_5\funcion_superficie\obj\Debug\net8.0\funcion_superficie.AssemblyInfoInputs.cache
+D:\Paloma\cifpa\programacion\2025\TM\23-5\clase23_5\funcion_superficie\obj\Debug\net8.0\funcion_superficie.AssemblyInfo.cs
+D:\Paloma\cifpa\programacion\2025\TM\23-5\clase23_5\funcion_superficie\obj\Debug\net8.0\funcion_superficie.csproj.CoreCompileInputs.cache
+D:\Paloma\cifpa\programacion\2025\TM\23-5\clase23_5\funcion_superficie\obj\Debug\net8.0\funcion_superficie.dll
+D:\Paloma\cifpa\programacion\2025\TM\23-5\clase23_5\funcion_superficie\obj\Debug\net8.0\refint\funcion_superficie.dll
+D:\Paloma\cifpa\programacion\2025\TM\23-5\clase23_5\funcion_superficie\obj\Debug\net8.0\funcion_superficie.pdb
+D:\Paloma\cifpa\programacion\2025\TM\23-5\clase23_5\funcion_superficie\obj\Debug\net8.0\funcion_superficie.genruntimeconfig.cache
+D:\Paloma\cifpa\programacion\2025\TM\23-5\clase23_5\funcion_superficie\obj\Debug\net8.0\ref\funcion_superficie.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Paloma\\cifpa\\programacion\\2025\\TM\\23-5\\clase23_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8F5D3-2B82-4D60-83CF-AB1946000402}|funcion_superficie\\funcion_superficie.csproj|d:\\paloma\\cifpa\\programacion\\2025\\tm\\23-5\\clase23_5\\funcion_superficie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B8F5D3-2B82-4D60-83CF-AB1946000402}|funcion_superficie\\funcion_superficie.csproj|solutionrelative:funcion_superficie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495A0A73-80B4-4C3E-AB4B-C729DDFEE709}|funcion\\funcion.csproj|d:\\paloma\\cifpa\\programacion\\2025\\tm\\23-5\\clase23_5\\funcion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495A0A73-80B4-4C3E-AB4B-C729DDFEE709}|funcion\\funcion.csproj|solutionrelative:funcion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 399,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Paloma\\cifpa\\programacion\\2025\\TM\\23-5\\clase23_5\\funcion_superficie\\Program.cs",
+              "RelativeDocumentMoniker": "funcion_superficie\\Program.cs",
+              "ToolTip": "D:\\Paloma\\cifpa\\programacion\\2025\\TM\\23-5\\clase23_5\\funcion_superficie\\Program.cs",
+              "RelativeToolTip": "funcion_superficie\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:10:01.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Paloma\\cifpa\\programacion\\2025\\TM\\23-5\\clase23_5\\funcion\\Program.cs",
+              "RelativeDocumentMoniker": "funcion\\Program.cs",
+              "ToolTip": "D:\\Paloma\\cifpa\\programacion\\2025\\TM\\23-5\\clase23_5\\funcion\\Program.cs",
+              "RelativeToolTip": "funcion\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:52:38.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
