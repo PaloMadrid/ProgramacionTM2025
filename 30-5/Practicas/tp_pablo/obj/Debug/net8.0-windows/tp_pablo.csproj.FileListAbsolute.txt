@@ -1,0 +1,17 @@
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\bin\Debug\net8.0-windows\tp_pablo.exe
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\bin\Debug\net8.0-windows\tp_pablo.deps.json
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\bin\Debug\net8.0-windows\tp_pablo.runtimeconfig.json
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\bin\Debug\net8.0-windows\tp_pablo.dll
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\bin\Debug\net8.0-windows\tp_pablo.pdb
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\obj\Debug\net8.0-windows\tp_pablo.Form1.resources
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\obj\Debug\net8.0-windows\tp_pablo.csproj.GenerateResource.cache
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\obj\Debug\net8.0-windows\tp_pablo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\obj\Debug\net8.0-windows\tp_pablo.AssemblyInfoInputs.cache
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\obj\Debug\net8.0-windows\tp_pablo.AssemblyInfo.cs
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\obj\Debug\net8.0-windows\tp_pablo.csproj.CoreCompileInputs.cache
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\obj\Debug\net8.0-windows\tp_pablo.sourcelink.json
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\obj\Debug\net8.0-windows\tp_pablo.dll
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\obj\Debug\net8.0-windows\refint\tp_pablo.dll
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\obj\Debug\net8.0-windows\tp_pablo.pdb
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\obj\Debug\net8.0-windows\tp_pablo.genruntimeconfig.cache
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\obj\Debug\net8.0-windows\ref\tp_pablo.dll

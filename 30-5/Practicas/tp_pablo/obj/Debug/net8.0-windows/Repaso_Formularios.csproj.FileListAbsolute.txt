@@ -1,0 +1,16 @@
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\bin\Debug\net8.0-windows\Repaso_Formularios.exe
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\bin\Debug\net8.0-windows\Repaso_Formularios.deps.json
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\bin\Debug\net8.0-windows\Repaso_Formularios.runtimeconfig.json
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\bin\Debug\net8.0-windows\Repaso_Formularios.dll
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\bin\Debug\net8.0-windows\Repaso_Formularios.pdb
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\obj\Debug\net8.0-windows\Repaso_Formularios.csproj.GenerateResource.cache
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\obj\Debug\net8.0-windows\Repaso_Formularios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\obj\Debug\net8.0-windows\Repaso_Formularios.AssemblyInfoInputs.cache
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\obj\Debug\net8.0-windows\Repaso_Formularios.AssemblyInfo.cs
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\obj\Debug\net8.0-windows\Repaso_Formularios.csproj.CoreCompileInputs.cache
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\obj\Debug\net8.0-windows\Repaso_Formularios.dll
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\obj\Debug\net8.0-windows\refint\Repaso_Formularios.dll
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\obj\Debug\net8.0-windows\Repaso_Formularios.pdb
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\obj\Debug\net8.0-windows\Repaso_Formularios.genruntimeconfig.cache
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\obj\Debug\net8.0-windows\ref\Repaso_Formularios.dll
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\Practicas\tp_pablo\obj\Debug\net8.0-windows\Repaso_Formularios.FormCargarDatos.resources
