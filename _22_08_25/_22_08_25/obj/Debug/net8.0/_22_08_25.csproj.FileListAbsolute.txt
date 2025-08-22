@@ -1,0 +1,14 @@
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\_22_08_25\_22_08_25\bin\Debug\net8.0\_22_08_25.exe
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\_22_08_25\_22_08_25\bin\Debug\net8.0\_22_08_25.deps.json
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\_22_08_25\_22_08_25\bin\Debug\net8.0\_22_08_25.runtimeconfig.json
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\_22_08_25\_22_08_25\bin\Debug\net8.0\_22_08_25.dll
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\_22_08_25\_22_08_25\bin\Debug\net8.0\_22_08_25.pdb
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\_22_08_25\_22_08_25\obj\Debug\net8.0\_22_08_25.GeneratedMSBuildEditorConfig.editorconfig
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\_22_08_25\_22_08_25\obj\Debug\net8.0\_22_08_25.AssemblyInfoInputs.cache
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\_22_08_25\_22_08_25\obj\Debug\net8.0\_22_08_25.AssemblyInfo.cs
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\_22_08_25\_22_08_25\obj\Debug\net8.0\_22_08_25.csproj.CoreCompileInputs.cache
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\_22_08_25\_22_08_25\obj\Debug\net8.0\_22_08_25.dll
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\_22_08_25\_22_08_25\obj\Debug\net8.0\refint\_22_08_25.dll
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\_22_08_25\_22_08_25\obj\Debug\net8.0\_22_08_25.pdb
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\_22_08_25\_22_08_25\obj\Debug\net8.0\_22_08_25.genruntimeconfig.cache
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\_22_08_25\_22_08_25\obj\Debug\net8.0\ref\_22_08_25.dll

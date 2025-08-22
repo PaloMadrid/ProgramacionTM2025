@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Paloma\\cifpa\\programacion\\2025\\TM\\csharp\\30-5\\_22_08_25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DABC030-AF84-4526-B7A9-9EC017930007}|_22_08_25\\_22_08_25.csproj|d:\\paloma\\cifpa\\programacion\\2025\\tm\\csharp\\30-5\\_22_08_25\\_22_08_25\\testeo_animales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DABC030-AF84-4526-B7A9-9EC017930007}|_22_08_25\\_22_08_25.csproj|solutionrelative:_22_08_25\\testeo_animales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DABC030-AF84-4526-B7A9-9EC017930007}|_22_08_25\\_22_08_25.csproj|d:\\paloma\\cifpa\\programacion\\2025\\tm\\csharp\\30-5\\_22_08_25\\_22_08_25\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DABC030-AF84-4526-B7A9-9EC017930007}|_22_08_25\\_22_08_25.csproj|solutionrelative:_22_08_25\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 399,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\Paloma\\cifpa\\programacion\\2025\\TM\\csharp\\30-5\\_22_08_25\\_22_08_25\\Animal.cs",
+              "RelativeDocumentMoniker": "_22_08_25\\Animal.cs",
+              "ToolTip": "D:\\Paloma\\cifpa\\programacion\\2025\\TM\\csharp\\30-5\\_22_08_25\\_22_08_25\\Animal.cs",
+              "RelativeToolTip": "_22_08_25\\Animal.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA5wBgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T12:22:29.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Testeo_animales.cs",
+              "DocumentMoniker": "D:\\Paloma\\cifpa\\programacion\\2025\\TM\\csharp\\30-5\\_22_08_25\\_22_08_25\\Testeo_animales.cs",
+              "RelativeDocumentMoniker": "_22_08_25\\Testeo_animales.cs",
+              "ToolTip": "D:\\Paloma\\cifpa\\programacion\\2025\\TM\\csharp\\30-5\\_22_08_25\\_22_08_25\\Testeo_animales.cs",
+              "RelativeToolTip": "_22_08_25\\Testeo_animales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T12:21:21.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
