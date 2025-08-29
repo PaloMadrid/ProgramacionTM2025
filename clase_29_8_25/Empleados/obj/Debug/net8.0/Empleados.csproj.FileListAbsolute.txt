@@ -1,0 +1,14 @@
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\clase_29_8_25\Empleados\bin\Debug\net8.0\Empleados.exe
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\clase_29_8_25\Empleados\bin\Debug\net8.0\Empleados.deps.json
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\clase_29_8_25\Empleados\bin\Debug\net8.0\Empleados.runtimeconfig.json
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\clase_29_8_25\Empleados\bin\Debug\net8.0\Empleados.dll
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\clase_29_8_25\Empleados\bin\Debug\net8.0\Empleados.pdb
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\clase_29_8_25\Empleados\obj\Debug\net8.0\Empleados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\clase_29_8_25\Empleados\obj\Debug\net8.0\Empleados.AssemblyInfoInputs.cache
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\clase_29_8_25\Empleados\obj\Debug\net8.0\Empleados.AssemblyInfo.cs
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\clase_29_8_25\Empleados\obj\Debug\net8.0\Empleados.csproj.CoreCompileInputs.cache
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\clase_29_8_25\Empleados\obj\Debug\net8.0\Empleados.dll
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\clase_29_8_25\Empleados\obj\Debug\net8.0\refint\Empleados.dll
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\clase_29_8_25\Empleados\obj\Debug\net8.0\Empleados.pdb
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\clase_29_8_25\Empleados\obj\Debug\net8.0\Empleados.genruntimeconfig.cache
+D:\Paloma\cifpa\programacion\2025\TM\csharp\30-5\clase_29_8_25\Empleados\obj\Debug\net8.0\ref\Empleados.dll
